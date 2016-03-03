@@ -1,0 +1,23 @@
+Ingegneria Informatica
+Alessandro Perini
+1,Analisi 1,20,9
+1,Analisi 2,0,9
+1,Economia,22,6
+1,Campi e Circuiti 1,27,9
+1,Fisica 1,28,9
+1,Fondamenti Info 1,26,12
+1,Geometria,20,6
+2,Controlli Automatici,21,12
+2,Elettronica 1,28,9
+2,Metodi Matematici,0,6
+2,Comunicazioni Elettriche,0,9
+2,Fisica 2,0,9
+2,Reti Log. e Calcolatori Elet.,0,12
+3,Basi di Dati,27,6
+3,Elettronica Industriale,18,6
+3,Gestione Aziendale,29,6
+3,IMAD,23,12
+3,Reti di Calcolatori,30,6
+3,Sistemi Operativi,24,6
+3,Fondamenti 2,0,12
+3,Attivita' di Laboratorio,0,6
